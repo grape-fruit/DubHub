@@ -1,0 +1,3 @@
+rootProject.name = 'dubhub'
+
+include ':app'
